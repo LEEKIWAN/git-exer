@@ -1,6 +1,8 @@
 Country와 함께 하는 Git 교실
 
 
+- feature/c rebase auto-merge
+
 - 3-way my
 - pop Test
 - pull 테스트
