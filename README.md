@@ -5,5 +5,5 @@ Country와 함께 하는 Git 교실
 - stash Test
 
 
-- fast-forward exer
+- fast-forward / conflit Test /  exer
 - three-way merge exer
