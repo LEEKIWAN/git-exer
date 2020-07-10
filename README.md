@@ -7,5 +7,5 @@ Country와 함께 하는 Git 교실
 - stash Test
 
 
-- fast-forward exer
+- fast-for f as t f rward exer
 - three-way merge exer
