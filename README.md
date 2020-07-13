@@ -18,3 +18,6 @@ Country와 함께 하는 Git 교실
 
 - rebase Test- forward
 - master -rebase auto merge
+
+
+- pr 실습
