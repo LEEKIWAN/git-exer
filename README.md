@@ -1,4 +1,6 @@
 Country와 함께 하는 Git 교실
+- rebasee 1.2.
+- rebase 3.
 - master rebase conflict
 
 - feature/c rebase auto-merge
